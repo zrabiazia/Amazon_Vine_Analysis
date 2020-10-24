@@ -7,8 +7,13 @@ In this project, I have access to approximately 50 datasets, where I will be cho
 # Results:
  
 •	The total vine and non-vine reviews were 261 and 24,040.
+
 •	The total 5-star ratings for vine or non-vine reviews were 106 and 10,899.
+
 •	The percentage for vine and non-vine 5-star ratings were 40.61% and 45.34%.
+
+![results](https://user-images.githubusercontent.com/67460581/97082134-ad49cb80-15c4-11eb-810e-340a334a7852.PNG)
+
 
 # Summary:
 
