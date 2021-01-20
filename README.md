@@ -1,10 +1,10 @@
 # Amazon Vine Analysis
 
-# Overview:
+## Overview:
 
 In this project, I have access to approximately 50 datasets, where I will be choosing one data set “Home Entertainment”, which contains reviews of a specific product. I will use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Then, I will use PySpark and Pandas to determine if there is any bias toward favorable reviews from Vine members in your dataset. After the analysis, will write a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
 
-# Results:
+## Results:
  
 •	The total vine and non-vine reviews were 261 and 24,040.
 
@@ -15,7 +15,7 @@ In this project, I have access to approximately 50 datasets, where I will be cho
 ![results](https://user-images.githubusercontent.com/67460581/97082134-ad49cb80-15c4-11eb-810e-340a334a7852.PNG)
 
 
-# Summary:
+## Summary:
 
 In Amazon Vine Reviews, we determined the paid and unpaid 5-start reviews and their percentage. The results for vine and non-vine reviews shows positivity bias.
 The results of Vine paid reviews, the total no’s 261 and 5-star ratings 106. The percentage of the paid vine reviews is 41% approx. The results for non-vine reviews, total reviews were 20,040 and 5-star rating was 10,899. And the percentage of unpaid vine reviews is 45%.
